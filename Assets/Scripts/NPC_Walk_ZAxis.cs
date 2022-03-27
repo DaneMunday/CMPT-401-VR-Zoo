@@ -2,12 +2,14 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class NPC_Walk_XAxis : MonoBehaviour
+public class NPC_Walk_ZAxis : MonoBehaviour
 {
 
+    private float movementSpeed = 5f;    
     int stepCount;
     int direction;
-    private bool shouldGo;
+
+    bool shouldGo = true;
 
     // Start is called before the first frame update
     void Start()
@@ -16,17 +18,18 @@ public class NPC_Walk_XAxis : MonoBehaviour
         stepCount = 0;
 
         direction = 1;
-        shouldGo = true;
     }
 
     // Update is called once per frame
     void Update()
     {
+        
         //check if step count is exceeded
         if (stepCount < 40 && shouldGo == true)
         {
-            //increment z position
-            transform.position = new Vector3(transform.position.x + direction, transform.position.y, transform.position.z);
+
+            transform.position = new Vector3(transform.position.x, transform.position.y, transform.position.z + direction);
+
             stepCount += 1;
 
             shouldGo = false;
@@ -34,17 +37,12 @@ public class NPC_Walk_XAxis : MonoBehaviour
 
         else
         {
-            shouldGo = true;
-
-            if (stepCount >= 40)
-            {
-                stepCount = 0;
-
-                //turn 180 degrees
+            if(stepCount % 40 == 0){
+                            //turn 180 degrees
                 transform.Rotate(0, 180, 0);
                 direction = direction * -1;
             }
-            
+
         }
     }
 }
