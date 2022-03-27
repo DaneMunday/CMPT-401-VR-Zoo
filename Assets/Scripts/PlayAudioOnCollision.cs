@@ -6,7 +6,7 @@ public class PlayAudioOnCollision : MonoBehaviour
 {
 
     public AudioSource audio;
-    public GameObject player;
+    public AudioSource audioAnimal;
 
     // Start is called before the first frame update
     void Start()
@@ -24,6 +24,8 @@ public class PlayAudioOnCollision : MonoBehaviour
     {
         //if object has tag "Player" play audio
         if (other.CompareTag("Player"))
+            //play sound
             audio.Play();
+            audioAnimal.Play();
     }
 }
