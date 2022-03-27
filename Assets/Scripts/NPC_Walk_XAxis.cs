@@ -5,6 +5,7 @@ using UnityEngine;
 public class NPC_Walk_XAxis : MonoBehaviour
 {
 
+    private float movementSpeed = 5f;    
     int stepCount;
     int direction;
 
@@ -22,11 +23,13 @@ public class NPC_Walk_XAxis : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        
         //check if step count is exceeded
         if (stepCount < 40 && shouldGo == true)
         {
-            //increment x position
-            transform.position = new Vector3(transform.position.x + direction, transform.position.y, transform.position.z);
+
+            transform.position = new Vector3(transform.position.x, transform.position.y, transform.position.z + direction);
+
             stepCount += 1;
 
             shouldGo = false;
@@ -34,11 +37,12 @@ public class NPC_Walk_XAxis : MonoBehaviour
 
         else
         {
-            stepCount = 0;
+            if(stepCount % 40 == 0){
+                            //turn 180 degrees
+                transform.Rotate(0, 180, 0);
+                direction = direction * -1;
+            }
 
-            //turn 180 degrees
-            transform.Rotate(0, 180, 0);
-            direction = direction * -1;
         }
     }
 }
