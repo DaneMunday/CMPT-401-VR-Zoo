@@ -25,6 +25,49 @@ Adult emperor penguins are 110–120 cm (43–47 in) in length, including bill a
 
 Zebra
 
-Zebras are African equines with distinctive black-and-white striped coats. There are three living species: the Grévy's zebra (Equus grevyi), plains zebra (E. quagga), and the mountain zebra (E. zebra). Zebras share the genus Equus with horses and asses, the three groups being the only living members of the family Equidae. Zebra stripes come in different patterns, unique to each individual. Several theories have been proposed for the function of these stripes, with most evidence supporting them as a deterrent for biting flies. Zebras inhabit eastern and southern Africa and can be found in a variety of habitats such as savannahs, grasslands, woodlands, shrublands, and mountainous areas. 
+Zebras are African equines with distinctive black-and-white striped coats. Zebras share the genus Equus with horses and donkeys, the three groups being the only living members of the family Equidae. Zebra stripes come in different patterns, unique to each individual. Several theories have been proposed for the function of these stripes, with most evidence supporting them as a deterrent for biting flies. Zebras inhabit eastern and southern Africa and can be found in a variety of habitats such as savannahs, grasslands, woodlands, shrublands, and mountainous areas. The zebra you see is a Plains zebra.
 
-https://en.wikipedia.org/wiki/Zebra
+Plains Zebras have body length of 217–246 cm (7.12–8.07 ft) with 47–56 cm (19–22 in) tail, 110–145 cm (3.61–4.76 ft) shoulder height and weighs 175–385 kg (386–849 lb).
+
+-https://en.wikipedia.org/wiki/Zebra
+
+Horse
+
+The horse is a domesticated, odd-toed, hoofed mammal. It belongs to the taxonomic family Equidae and is one of two extant subspecies of Equus ferus. Humans began domesticating horses around 4000 BC, and their domestication is believed to have been widespread by 3000 BC. Horses in the subspecies caballus are domesticated, although some domesticated populations live in the wild as feral horses. These feral populations are not true wild horses, as this term is used to describe horses that have never been domesticated. Horses and humans interact in a wide variety of sport competitions and non-competitive recreational pursuits, as well as in working activities such as police work, agriculture, entertainment, and therapy.
+
+The height of horses is often stated in units of hands and inches: one hand is equal to 101.6 mm. The height is expressed as the number of full hands, followed by a point, then the number of additional inches, and ending with the abbreviation "h" or "hh". Thus, a horse described as "15.2 h" is 15 hands plus 2 inches, for a total of 157.5 cm in height.
+
+-https://en.wikipedia.org/wiki/Horse
+
+Snake
+
+The gray rat snake, also commonly known as the central ratsnake, chicken snake, midland ratsnake, or pilot black snake, is a species of nonvenomous snake in the genus Pantherophis in the subfamily Colubrinae. The gray ratsnake is one of about ten species within the American ratsnake genus Pantherophis. 
+
+A medium to large serpent, the gray ratsnake reaches an adult size of 99–183 cm total length with tail; however, the record is 247 cm for a captive specimen at the Ridley 4-H Center in Tennessee. Unlike other Pantherophis, whose conspicuous juvenile pattern fades into adulthood, the gray ratsnake in the southern part of its range does not undergo drastic ontogenetic changes in color or markings. Instead, it retains the juvenile pattern of dark elongate dorsal blotches separated by four, or more, pale gray body scales, a light gray crown with dark striping that forms an anteriorly facing spearpoint, and a solid band which covers the eyes and extends rearward to the posterior upper labial scales. 
+
+-https://en.wikipedia.org/wiki/Gray_ratsnake
+
+Elephant
+
+Elephants are the largest existing land animals. They are an informal grouping within the proboscidean family Elephantidae. Elephantidae also contains several extinct groups, including the mammoths and straight-tusked elephants. African elephants have larger ears and concave backs, whereas Asian elephants have smaller ears, and convex or level backs. The distinctive features of all elephants include a long proboscis called a trunk, tusks, large ear flaps, massive legs, and tough but sensitive skin. The trunk is used for breathing, bringing food and water to the mouth, and grasping objects. Tusks, which are derived from the incisor teeth, serve both as weapons and as tools for moving objects and digging. The large ear flaps assist in maintaining a constant body temperature as well as in communication. The pillar-like legs carry their great weight. 
+
+This is an African bush elephant. These are the largest species, with males being 304–336 cm tall at the shoulder with a body mass of 5.2–6.9 tons and females standing 247–273 cm tall at the shoulder with a body mass of 2.6–3.5 t. Male African bush elephants are typically 23% taller than females.
+
+-https://en.wikipedia.org/wiki/Elephant
+
+Panda (unfinished)
+
+The giant panda also known as the panda bear (or simply the panda), is a bear species endemic to China. It is characterised by its bold black-and-white coat and rotund body. The name "giant panda" is sometimes used to distinguish it from the red panda, a neighboring musteloid. Though it belongs to the order Carnivora, the giant panda is a folivore, with bamboo shoots and leaves making up more than 99% of its diet. Giant pandas in the wild will occasionally eat other grasses, wild tubers, or even meat in the form of birds, rodents, or carrion. In captivity, they may receive honey, eggs, fish, yams, shrub leaves, oranges, or bananas along with specially prepared food.
+
+
+
+-https://en.wikipedia.org/wiki/Giant_panda
+
+Tourtoise
+
+Tortoises are reptiles of the family Testudinidae of the order Testudines. They are particularly distinguished from other turtles by being exclusively land-dwelling, while many other turtle species are at least partly aquatic. Like other turtles, tortoises have a shell to protect from predation and other threats. The shell in tortoises is generally hard, and like other members of the suborder Cryptodira, they retract their necks and heads directly backwards into the shell to protect them. Tortoises can vary in size with some species, where some tourtoise shells can be over 1 meter in length, where as other species have only 7 cm long. 
+
+This is an African Spurred Tortoise that has reported maximum size in the wild as 83 cm and 98 kg. They grow from hatchling size very quickly, reaching 15–25 cm within the first few years of their lives. They can live more than 70 years.
+
+-https://en.wikipedia.org/wiki/Tortoise
+-https://en.wikipedia.org/wiki/African_spurred_tortoise
