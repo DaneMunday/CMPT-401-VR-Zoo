@@ -7,6 +7,7 @@ public class RobotGuide : MonoBehaviour
     public GameObject player;
     private Vector3 targetPosition;
 
+
     // Start is called before the first frame update
     void Start()
     {
@@ -19,6 +20,7 @@ public class RobotGuide : MonoBehaviour
 
         //update player position
         targetPosition = player.transform.position;
+
         targetPosition.x -= 15;
         targetPosition.z -= 10;
 
