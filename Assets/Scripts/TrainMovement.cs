@@ -8,6 +8,8 @@ public class TrainMovement : MonoBehaviour
     //int 1-4 to determien what segment train is on
     private int trackSegment;
 
+    public bool isMoving = true;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -19,6 +21,7 @@ public class TrainMovement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        //Debug.Log(isMoving);
         //traverse segment 1
         if (distanceTravelled < 317)
         {
@@ -93,8 +96,12 @@ public class TrainMovement : MonoBehaviour
 
     private IEnumerator WaitForBoarding()
     {
+        isMoving = false;
+
         yield return new WaitForSeconds(10.0f);
         //reset distance travelled
         distanceTravelled = 0;
+
+        isMoving = true;
     }
 }
