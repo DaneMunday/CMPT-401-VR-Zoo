@@ -2,41 +2,38 @@ fileFormatVersion: 2
 guid: 975485e3c0cf54d448912f287c4ea38b
 ModelImporter:
   serializedVersion: 20200
-  internalIDToNameTable:
-  - first:
-      74: 1827226128182048838
-    second: Take 001
+  internalIDToNameTable: []
   externalObjects:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: aa_blinn_body
-    second: {fileID: 2100000, guid: 29fa537e1df88234da6425718c988fa2, type: 2}
+    second: {fileID: 2100000, guid: b7731b276f0cd7c4686f90ad23f2bab6, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: blink_L_aa_blinn1SG1
-    second: {fileID: 2100000, guid: 592a1b295123866439fb88b0fed2cc71, type: 2}
+    second: {fileID: 2100000, guid: f9d38a612323d3343a3b551f2155f0ed, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: blink_R_aa_blinn1SG1
-    second: {fileID: 2100000, guid: 59db6e670a61a2f47ab4f242ecc94a8d, type: 2}
+    second: {fileID: 2100000, guid: ee8cce857f6cfa44bb23849b95570757, type: 2}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: CH_NPC_MOB_Elephant_A01_D_GRN
-    second: {fileID: 2800000, guid: 36ab0fde190dab945906fb304ddbe6d2, type: 3}
+    second: {fileID: 2800000, guid: 310bedac9872de24b9d9b7233be674e5, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: CH_NPC_MOB_Elephant_A01_N_GRN
-    second: {fileID: 2800000, guid: 0d6d9b7c38e0d9949bdc34ba83730f7d, type: 3}
+    second: {fileID: 2800000, guid: 697a20531cbf28c409e92c87d16ec8c7, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: CH_NPC_MOB_Elephant_A01_SP_GRN
-    second: {fileID: 2800000, guid: f872db6c48ccb3d4a8b96e10d73d51cc, type: 3}
+    second: {fileID: 2800000, guid: 7dc0a9154065abc44b15b764ee349a8b, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
