@@ -4,7 +4,8 @@ using UnityEngine;
 
 public class TrainMovement : MonoBehaviour
 {
-    private int distanceTravelled;
+    private float distanceTravelled;
+    private float speed = 0.5f;
     //int 1-4 to determien what segment train is on
     private int trackSegment;
 
@@ -26,8 +27,8 @@ public class TrainMovement : MonoBehaviour
         if (distanceTravelled < 317)
         {
             //moveAcrossSegment 1 (+x)
-            transform.position = new Vector3(transform.position.x + 1, transform.position.y, transform.position.z);
-            distanceTravelled += 1;
+            transform.position = new Vector3(transform.position.x + speed, transform.position.y, transform.position.z);
+            distanceTravelled += speed;
         }
 
         //traverse segment 2
@@ -42,8 +43,8 @@ public class TrainMovement : MonoBehaviour
             }
 
             //moveAcrossSegment 2 (+x)
-            transform.position = new Vector3(transform.position.x, transform.position.y, transform.position.z + 1);
-            distanceTravelled += 1;
+            transform.position = new Vector3(transform.position.x, transform.position.y, transform.position.z + speed);
+            distanceTravelled += speed;
         }
 
         //traverse segment 3
@@ -58,8 +59,8 @@ public class TrainMovement : MonoBehaviour
             }
 
             //moveAcrossSegment 3 (+x)
-            transform.position = new Vector3(transform.position.x -1, transform.position.y, transform.position.z);
-            distanceTravelled += 1;
+            transform.position = new Vector3(transform.position.x -speed, transform.position.y, transform.position.z);
+            distanceTravelled += speed;
         }
 
         //traverse segment 4
@@ -74,8 +75,8 @@ public class TrainMovement : MonoBehaviour
             }
 
             //moveAcrossSegment 4 (+x)
-            transform.position = new Vector3(transform.position.x, transform.position.y, transform.position.z - 1);
-            distanceTravelled += 1;
+            transform.position = new Vector3(transform.position.x, transform.position.y, transform.position.z - speed);
+            distanceTravelled += speed;
         }
 
         //rotate for boarding

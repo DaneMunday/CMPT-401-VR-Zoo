@@ -69,3 +69,12 @@ This is an African Spurred Tortoise that has reported maximum size in the wild a
 
 -https://en.wikipedia.org/wiki/Tortoise
 -https://en.wikipedia.org/wiki/African_spurred_tortoise
+
+Tiger
+
+The tiger is the largest living cat species and a member of the genus Panthera. It is an apex predator that primarily preys on deer and wild boar. It is territorial and generally a solitary but social predator, requiring large contiguous areas of habitat, which support its requirements for prey and rearing of its offspring. Since the early 20th century, tiger populations have lost at least 93% of their historic range and have been extirpated.
+
+This subspecies is the Bengal Tiger. The Bengal tiger's historical range covered almost all of India and Pakistan until the early 19th century. The Bengal tiger's coat is yellow to light orange, with stripes ranging from dark brown to black; the belly and the interior parts of the limbs are white, and the tail is orange with black rings. The white tiger is a recessive mutant of the Bengal tiger. Bengal tigers reach a head-to-body length of 204 cm plus a tail of 107 cm and a weight of up to 261 kg. 
+
+-https://en.wikipedia.org/wiki/Tiger
+-https://en.wikipedia.org/wiki/Bengal_tiger
