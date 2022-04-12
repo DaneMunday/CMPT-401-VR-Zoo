@@ -29862,14 +29862,14 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 82c075e02cccf5f4fa969b7274ca678f, type: 3}
-  m_PlayOnAwake: 1
+  m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
   Loop: 0
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
-  Priority: 94
+  Priority: 1
   DopplerLevel: 1
   MinDistance: 1
   MaxDistance: 500
@@ -30048,6 +30048,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   player: {fileID: 1456434053}
+  speech: {fileID: 1027984896}
 --- !u!82 &1027984899
 AudioSource:
   m_ObjectHideFlags: 0
@@ -38393,6 +38394,10 @@ PrefabInstance:
     - target: {fileID: 4986891268525553658, guid: 610d2f9406ca520499fdc70626ea6739, type: 3}
       propertyPath: m_IsTrigger
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4986891268525553659, guid: 610d2f9406ca520499fdc70626ea6739, type: 3}
+      propertyPath: m_Volume
+      value: 0.689
       objectReference: {fileID: 0}
     - target: {fileID: 4986891268525553659, guid: 610d2f9406ca520499fdc70626ea6739, type: 3}
       propertyPath: m_Enabled
