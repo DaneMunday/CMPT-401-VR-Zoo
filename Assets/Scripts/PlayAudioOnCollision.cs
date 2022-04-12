@@ -23,7 +23,7 @@ public class PlayAudioOnCollision : MonoBehaviour
     private void OnTriggerEnter(Collider other)
     {
         //if object has tag "Player" play audio
-        if (other.CompareTag("Player"))
+        if (other.CompareTag("Player") && !audio.isPlaying)
             //play sound
             audio.Play();
             audioAnimal.Play();
